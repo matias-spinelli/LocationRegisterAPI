@@ -143,7 +143,7 @@ PORT=8080     # opcional
 
 La API está deployada en Render.com y disponible públicamente:
 
-👉 https://locationregisterapi.onrender.com/
+👉 https://locationregisterapi.onrender.com
 
 --- 
 

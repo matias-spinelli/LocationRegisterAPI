@@ -53,3 +53,10 @@ curl -X POST http://localhost:8080/api/registros \
     "sucursalID": "test-sucursal",
     "userID": "test-user"
   }'
+
+
+
+Mongo + API corriendo localmente con persistencia
+
+docker-compose -f docker-compose.dev.yml up --build
+
